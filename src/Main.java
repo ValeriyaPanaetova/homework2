@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        int score = 2;//счет клиента (начальные данные).
+        int score = 100;//счет клиента (начальные данные).
         int depositAccount = 3000; //депозитный счет клиента -счет для накопления бонусных средств.
 
         int bonus;
